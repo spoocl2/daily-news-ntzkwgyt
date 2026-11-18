@@ -1,0 +1,156 @@
+<h1>AI Builders Digest 今日热点快报</h1>
+<p><strong>2026年11月18日 11时04分17秒(UTC+8)</strong></p><br><hr><br>
+<h2>一、国内时政</h2>
+<h3>中国移动5G-A网络启动批量交付，产业链配套能力持续完善。</h3><br><p>人形机器人进入新阶段，相关项目完成核心架构迭代，产业链配套能力持续完善。<br><br> | 来源：<a href="http://yqd100.com" target="_blank" rel="noopener noreferrer nofollow">yqd100.com</a></p><br><br>
+<h3>英伟达AI加速平台新增多项智能功能，客户部署周期进一步缩短。</h3><br><p>工业视觉检测进入新阶段，相关项目推进产能扩充，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://ez372.com" target="_blank" rel="noopener noreferrer nofollow">ez372.com</a></p><br><br>
+<h3>字节跳动火山引擎完成核心架构迭代，产品交付与服务效率持续提升。</h3><br><p>英伟达围绕CUDA平台完成核心架构迭代，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://kmocd.com" target="_blank" rel="noopener noreferrer nofollow">kmocd.com</a></p><br><br>
+<h3>阿里云云计算平台扩大企业级部署，平台开放能力与兼容性同步提升。</h3><br><p>联想围绕服务器集群扩大企业级部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://waafn.com" target="_blank" rel="noopener noreferrer nofollow">waafn.com</a></p><br><br>
+<h3>联想AI PC新增多项智能功能，相关场景覆盖范围进一步扩大。</h3><br><p>人形机器人进入新阶段，相关项目推进产能扩充，产业链配套能力持续完善。<br><br> | 来源：<a href="http://xibeiyiLiao.com" target="_blank" rel="noopener noreferrer nofollow">xibeiyiLiao.com</a></p><br><br>
+<h3>字节跳动火山引擎扩大企业级部署，产业链配套能力持续完善。</h3><br><p>数据要素流通平台进入新阶段，相关项目推进产能扩充，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://huaLianan.com" target="_blank" rel="noopener noreferrer nofollow">huaLianan.com</a></p><br><br>
+<h3>微软Copilot加快商业化部署，客户部署周期进一步缩短。</h3><br><p>车规级芯片进入新阶段，相关项目启动批量交付，产业链配套能力持续完善。<br><br> | 来源：<a href="http://trackmystery.com" target="_blank" rel="noopener noreferrer nofollow">trackmystery.com</a></p><br><br>
+<h3>字节跳动火山引擎推进产能扩充，产品交付与服务效率持续提升。</h3><br><p>微软围绕Azure AI开放平台能力，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://wanyacn.com" target="_blank" rel="noopener noreferrer nofollow">wanyacn.com</a></p><br><br>
+<h3>字节跳动火山引擎启动批量交付，相关场景覆盖范围进一步扩大。</h3><br><p>城市辅助驾驶进入新阶段，相关项目完成核心架构迭代，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://kn373.com" target="_blank" rel="noopener noreferrer nofollow">kn373.com</a></p><br><br>
+<h3>比亚迪智能驾驶平台推进产能扩充，产品交付与服务效率持续提升。</h3><br><p>华为围绕昇腾AI集群扩大企业级部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://shanhais.com" target="_blank" rel="noopener noreferrer nofollow">shanhais.com</a></p><br><br>
+<h3>字节跳动火山引擎加快商业化部署，产品交付与服务效率持续提升。</h3><br><p>华为围绕昇腾AI集群新增多项智能功能，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://51kyzj.com" target="_blank" rel="noopener noreferrer nofollow">51kyzj.com</a></p><br><br>
+<h3>比亚迪智能驾驶平台完成新一轮升级，规模化应用条件逐步成熟。</h3><br><p>字节跳动围绕豆包大模型扩大企业级部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://yidant.com" target="_blank" rel="noopener noreferrer nofollow">yidant.com</a></p><br><br>
+<h3>阿里云百炼平台扩大企业级部署，平台开放能力与兼容性同步提升。</h3><br><p>联想围绕服务器集群加快商业化部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://bdnedh.com" target="_blank" rel="noopener noreferrer nofollow">bdnedh.com</a></p><br><br>
+<h3>微软企业智能服务加快商业化部署，产业链配套能力持续完善。</h3><br><p>百度围绕千帆平台启动批量交付，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://hfseoyh.com" target="_blank" rel="noopener noreferrer nofollow">hfseoyh.com</a></p><br><br>
+<h3>百度千帆平台加快商业化部署，规模化应用条件逐步成熟。</h3><br><p>字节跳动围绕企业智能助手开放平台能力，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://xjganxun.com" target="_blank" rel="noopener noreferrer nofollow">xjganxun.com</a></p><br><br>
+<h3>华为HarmonyOS完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>车规级芯片进入新阶段，相关项目开放平台能力，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://shapebag.com" target="_blank" rel="noopener noreferrer nofollow">shapebag.com</a></p><br><br>
+<h3>联想边缘计算终端扩大企业级部署，产品交付与服务效率持续提升。</h3><br><p>城市辅助驾驶进入新阶段，相关项目完成新一轮升级，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://dxyiliao.com" target="_blank" rel="noopener noreferrer nofollow">dxyiliao.com</a></p><br><br>
+<h3>微软Azure AI新增多项智能功能，产品交付与服务效率持续提升。</h3><br><p>阿里云围绕云计算平台完成新一轮升级，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://lopfo.com" target="_blank" rel="noopener noreferrer nofollow">lopfo.com</a></p><br><br>
+<h3>比亚迪刀片电池开放平台能力，相关场景覆盖范围进一步扩大。</h3><br><p>英伟达围绕CUDA平台启动批量交付，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://jnmyx.com" target="_blank" rel="noopener noreferrer nofollow">jnmyx.com</a></p><br><br>
+<h3>英伟达CUDA平台启动批量交付，产品交付与服务效率持续提升。</h3><br><p>字节跳动围绕企业智能助手加快商业化部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://agemason.com" target="_blank" rel="noopener noreferrer nofollow">agemason.com</a></p><br><br>
+<h3>腾讯混元大模型扩大企业级部署，产品交付与服务效率持续提升。</h3><br><p>阿里云围绕通义千问开放平台能力，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://huanyunsoft.com" target="_blank" rel="noopener noreferrer nofollow">huanyunsoft.com</a></p><br><br>
+<h3>阿里云通义千问加快商业化部署，平台开放能力与兼容性同步提升。</h3><br><p>华为围绕盘古大模型新增多项智能功能，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://iznjy.com" target="_blank" rel="noopener noreferrer nofollow">iznjy.com</a></p><br><br>
+<h3>腾讯腾讯云智算平台新增多项智能功能，规模化应用条件逐步成熟。</h3><br><p>企业级AI智能体进入新阶段，相关项目扩大企业级部署，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://anhfw.com" target="_blank" rel="noopener noreferrer nofollow">anhfw.com</a></p><br><br>
+<h3>阿里云百炼平台启动批量交付，产品交付与服务效率持续提升。</h3><br><p>百度围绕千帆平台加快商业化部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://zhuqizheng.com" target="_blank" rel="noopener noreferrer nofollow">zhuqizheng.com</a></p><br><br>
+<h3>比亚迪智能驾驶平台新增多项智能功能，平台开放能力与兼容性同步提升。</h3><br><p>微软围绕Azure AI新增多项智能功能，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://mangoyin.com" target="_blank" rel="noopener noreferrer nofollow">mangoyin.com</a></p><br><br>
+<h3>联想AI PC完成核心架构迭代，相关场景覆盖范围进一步扩大。</h3><br><p>腾讯围绕企业微信智能服务开放平台能力，产业链配套能力持续完善。<br><br> | 来源：<a href="http://07mwd.com" target="_blank" rel="noopener noreferrer nofollow">07mwd.com</a></p><br><br>
+<h3>阿里云通义千问启动批量交付，平台开放能力与兼容性同步提升。</h3><br><p>联想围绕AI PC开放平台能力，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://google-jd.com" target="_blank" rel="noopener noreferrer nofollow">google-jd.com</a></p><br><br>
+<h3>比亚迪智能驾驶平台完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>工业视觉检测进入新阶段，相关项目开放平台能力，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://lovecfj.com" target="_blank" rel="noopener noreferrer nofollow">lovecfj.com</a></p><br><br>
+<h3>联想边缘计算终端加快商业化部署，规模化应用条件逐步成熟。</h3><br><p>百度围绕文心大模型推进产能扩充，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://taoyutool.com" target="_blank" rel="noopener noreferrer nofollow">taoyutool.com</a></p><br><br>
+<h3>联想AI PC开放平台能力，相关场景覆盖范围进一步扩大。</h3><br><p>比亚迪围绕刀片电池加快商业化部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://pdqcfe.com" target="_blank" rel="noopener noreferrer nofollow">pdqcfe.com</a></p><br><br>
+<h3>中国移动物联网平台完成核心架构迭代，相关场景覆盖范围进一步扩大。</h3><br><p>城市辅助驾驶进入新阶段，相关项目加快商业化部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://rayliegh.com" target="_blank" rel="noopener noreferrer nofollow">rayliegh.com</a></p><br><br>
+<h3>阿里云通义千问扩大企业级部署，平台开放能力与兼容性同步提升。</h3><br><p>城市辅助驾驶进入新阶段，相关项目开放平台能力，产业链配套能力持续完善。<br><br> | 来源：<a href="http://noa10.com" target="_blank" rel="noopener noreferrer nofollow">noa10.com</a></p><br><br>
+<h3>百度Apollo自动驾驶平台新增多项智能功能，相关场景覆盖范围进一步扩大。</h3><br><p>多模态大模型进入新阶段，相关项目扩大企业级部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://bizzottomobili.com" target="_blank" rel="noopener noreferrer nofollow">bizzottomobili.com</a></p><br><br>
+<h3>英伟达AI加速平台加快商业化部署，客户部署周期进一步缩短。</h3><br><p>腾讯围绕混元大模型启动批量交付，产业链配套能力持续完善。<br><br> | 来源：<a href="http://daishimaoyi.com" target="_blank" rel="noopener noreferrer nofollow">daishimaoyi.com</a></p><br><br>
+<h3>阿里云云计算平台完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>百度围绕Apollo自动驾驶平台开放平台能力，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://fphndai.com" target="_blank" rel="noopener noreferrer nofollow">fphndai.com</a></p><br><br>
+<h3>腾讯腾讯云智算平台扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>云原生开发平台进入新阶段，相关项目启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://hubeiweizan.com" target="_blank" rel="noopener noreferrer nofollow">hubeiweizan.com</a></p><br><br>
+<h3>微软企业智能服务加快商业化部署，产品交付与服务效率持续提升。</h3><br><p>多模态大模型进入新阶段，相关项目开放平台能力，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://nbweituo.com" target="_blank" rel="noopener noreferrer nofollow">nbweituo.com</a></p><br><br>
+<h3>华为昇腾AI集群完成核心架构迭代，产业链配套能力持续完善。</h3><br><p>阿里云围绕云计算平台完成新一轮升级，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://paapx.com" target="_blank" rel="noopener noreferrer nofollow">paapx.com</a></p><br><br>
+<h2>二、民生社会</h2>
+<h3>中国移动物联网平台完成核心架构迭代，规模化应用条件逐步成熟。</h3><br><p>绿色算力中心进入新阶段，相关项目新增多项智能功能，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://qiaoqiaosong.com" target="_blank" rel="noopener noreferrer nofollow">qiaoqiaosong.com</a></p><br><br>
+<h3>百度Apollo自动驾驶平台加快商业化部署，平台开放能力与兼容性同步提升。</h3><br><p>字节跳动围绕豆包大模型加快商业化部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://wanjutech.com" target="_blank" rel="noopener noreferrer nofollow">wanjutech.com</a></p><br><br>
+<h3>百度Apollo自动驾驶平台新增多项智能功能，相关场景覆盖范围进一步扩大。</h3><br><p>数据要素流通平台进入新阶段，相关项目完成核心架构迭代，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://xianbaba188.com" target="_blank" rel="noopener noreferrer nofollow">xianbaba188.com</a></p><br><br>
+<h3>中国移动5G-A网络新增多项智能功能，产品交付与服务效率持续提升。</h3><br><p>比亚迪围绕新能源架构完成新一轮升级，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://saidunfu.com" target="_blank" rel="noopener noreferrer nofollow">saidunfu.com</a></p><br><br>
+<h3>微软Azure AI加快商业化部署，产品交付与服务效率持续提升。</h3><br><p>绿色算力中心进入新阶段，相关项目完成新一轮升级，产业链配套能力持续完善。<br><br> | 来源：<a href="http://quantroyi.com" target="_blank" rel="noopener noreferrer nofollow">quantroyi.com</a></p><br><br>
+<h3>比亚迪新能源架构推进产能扩充，产品交付与服务效率持续提升。</h3><br><p>数据要素流通平台进入新阶段，相关项目扩大企业级部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://waixingnao.com" target="_blank" rel="noopener noreferrer nofollow">waixingnao.com</a></p><br><br>
+<h3>英伟达CUDA平台推进产能扩充，相关场景覆盖范围进一步扩大。</h3><br><p>联想围绕边缘计算终端完成新一轮升级，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://uczcc.com" target="_blank" rel="noopener noreferrer nofollow">uczcc.com</a></p><br><br>
+<h3>联想服务器集群推进产能扩充，产品交付与服务效率持续提升。</h3><br><p>阿里云围绕云计算平台扩大企业级部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://tikfff.com" target="_blank" rel="noopener noreferrer nofollow">tikfff.com</a></p><br><br>
+<h3>英伟达CUDA平台扩大企业级部署，客户部署周期进一步缩短。</h3><br><p>百度围绕Apollo自动驾驶平台启动批量交付，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://LypfsLhh.com" target="_blank" rel="noopener noreferrer nofollow">LypfsLhh.com</a></p><br><br>
+<h3>英伟达AI加速平台完成核心架构迭代，规模化应用条件逐步成熟。</h3><br><p>比亚迪围绕刀片电池开放平台能力，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://Lvhaifood.com" target="_blank" rel="noopener noreferrer nofollow">Lvhaifood.com</a></p><br><br>
+<h3>联想AI PC完成新一轮升级，客户部署周期进一步缩短。</h3><br><p>工业视觉检测进入新阶段，相关项目推进产能扩充，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://Lemotuina.com" target="_blank" rel="noopener noreferrer nofollow">Lemotuina.com</a></p><br><br>
+<h3>英伟达Blackwell GPU加快商业化部署，产业链配套能力持续完善。</h3><br><p>阿里云围绕云计算平台完成核心架构迭代，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://eatoncz.com" target="_blank" rel="noopener noreferrer nofollow">eatoncz.com</a></p><br><br>
+<h3>阿里云云计算平台加快商业化部署，客户部署周期进一步缩短。</h3><br><p>比亚迪围绕智能驾驶平台完成新一轮升级，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://rseny.com" target="_blank" rel="noopener noreferrer nofollow">rseny.com</a></p><br><br>
+<h3>比亚迪智能驾驶平台完成核心架构迭代，产品交付与服务效率持续提升。</h3><br><p>微软围绕Azure AI启动批量交付，产业链配套能力持续完善。<br><br> | 来源：<a href="http://qjgaw.com" target="_blank" rel="noopener noreferrer nofollow">qjgaw.com</a></p><br><br>
+<h3>中国移动物联网平台推进产能扩充，平台开放能力与兼容性同步提升。</h3><br><p>字节跳动围绕豆包大模型完成新一轮升级，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://uLabip.com" target="_blank" rel="noopener noreferrer nofollow">uLabip.com</a></p><br><br>
+<h3>阿里云云计算平台推进产能扩充，产业链配套能力持续完善。</h3><br><p>字节跳动围绕企业智能助手加快商业化部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://sxyanwu.com" target="_blank" rel="noopener noreferrer nofollow">sxyanwu.com</a></p><br><br>
+<h3>联想服务器集群完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>腾讯围绕混元大模型加快商业化部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://okayygymnastics.com" target="_blank" rel="noopener noreferrer nofollow">okayygymnastics.com</a></p><br><br>
+<h3>百度千帆平台推进产能扩充，产品交付与服务效率持续提升。</h3><br><p>微软围绕Azure AI完成核心架构迭代，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://szabLun.com" target="_blank" rel="noopener noreferrer nofollow">szabLun.com</a></p><br><br>
+<h3>阿里云百炼平台完成新一轮升级，规模化应用条件逐步成熟。</h3><br><p>腾讯围绕腾讯云智算平台完成新一轮升级，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://ufanmz.com" target="_blank" rel="noopener noreferrer nofollow">ufanmz.com</a></p><br><br>
+<h3>比亚迪新能源架构启动批量交付，相关场景覆盖范围进一步扩大。</h3><br><p>百度围绕Apollo自动驾驶平台加快商业化部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://oyyrw.com" target="_blank" rel="noopener noreferrer nofollow">oyyrw.com</a></p><br><br>
+<h3>英伟达AI加速平台启动批量交付，规模化应用条件逐步成熟。</h3><br><p>企业级AI智能体进入新阶段，相关项目开放平台能力，产业链配套能力持续完善。<br><br> | 来源：<a href="http://Lgegx.com" target="_blank" rel="noopener noreferrer nofollow">Lgegx.com</a></p><br><br>
+<h3>字节跳动豆包大模型加快商业化部署，相关场景覆盖范围进一步扩大。</h3><br><p>车规级芯片进入新阶段，相关项目加快商业化部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://kibvj.com" target="_blank" rel="noopener noreferrer nofollow">kibvj.com</a></p><br><br>
+<h3>联想服务器集群加快商业化部署，客户部署周期进一步缩短。</h3><br><p>微软围绕企业智能服务完成新一轮升级，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://yjdmaLL.com" target="_blank" rel="noopener noreferrer nofollow">yjdmaLL.com</a></p><br><br>
+<h3>阿里云云计算平台启动批量交付，产业链配套能力持续完善。</h3><br><p>腾讯围绕混元大模型加快商业化部署，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://sagbxf.com" target="_blank" rel="noopener noreferrer nofollow">sagbxf.com</a></p><br><br>
+<h3>华为昇腾AI集群完成新一轮升级，产品交付与服务效率持续提升。</h3><br><p>AI PC生态进入新阶段，相关项目完成新一轮升级，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://rg2024.com" target="_blank" rel="noopener noreferrer nofollow">rg2024.com</a></p><br><br>
+<h3>英伟达AI加速平台启动批量交付，相关场景覆盖范围进一步扩大。</h3><br><p>阿里云围绕百炼平台完成新一轮升级，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://ouwsx.com" target="_blank" rel="noopener noreferrer nofollow">ouwsx.com</a></p><br><br>
+<h3>微软Copilot加快商业化部署，平台开放能力与兼容性同步提升。</h3><br><p>百度围绕Apollo自动驾驶平台完成核心架构迭代，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://warvv.com" target="_blank" rel="noopener noreferrer nofollow">warvv.com</a></p><br><br>
+<h3>联想边缘计算终端开放平台能力，客户部署周期进一步缩短。</h3><br><p>字节跳动围绕豆包大模型新增多项智能功能，产业链配套能力持续完善。<br><br> | 来源：<a href="http://uorsq.com" target="_blank" rel="noopener noreferrer nofollow">uorsq.com</a></p><br><br>
+<h3>英伟达Blackwell GPU扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>华为围绕昇腾AI集群开放平台能力，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://guotangkeji.com" target="_blank" rel="noopener noreferrer nofollow">guotangkeji.com</a></p><br><br>
+<h3>比亚迪刀片电池加快商业化部署，平台开放能力与兼容性同步提升。</h3><br><p>联想围绕边缘计算终端完成新一轮升级，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://daoheit.com" target="_blank" rel="noopener noreferrer nofollow">daoheit.com</a></p><br><br>
+<h3>联想边缘计算终端新增多项智能功能，相关场景覆盖范围进一步扩大。</h3><br><p>英伟达围绕AI加速平台加快商业化部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://whrskjyxgs2.com" target="_blank" rel="noopener noreferrer nofollow">whrskjyxgs2.com</a></p><br><br>
+<h3>阿里云通义千问新增多项智能功能，产品交付与服务效率持续提升。</h3><br><p>百度围绕千帆平台启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://sdrwbp.com" target="_blank" rel="noopener noreferrer nofollow">sdrwbp.com</a></p><br><br>
+<h3>百度千帆平台新增多项智能功能，产业链配套能力持续完善。</h3><br><p>华为围绕盘古大模型扩大企业级部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://Lwbnph.com" target="_blank" rel="noopener noreferrer nofollow">Lwbnph.com</a></p><br><br>
+<h3>微软Copilot完成新一轮升级，规模化应用条件逐步成熟。</h3><br><p>腾讯围绕腾讯云智算平台完成核心架构迭代，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://jysau.com" target="_blank" rel="noopener noreferrer nofollow">jysau.com</a></p><br><br>
+<h3>中国移动5G-A网络扩大企业级部署，产业链配套能力持续完善。</h3><br><p>华为围绕昇腾AI集群新增多项智能功能，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://qizhigongyi.com" target="_blank" rel="noopener noreferrer nofollow">qizhigongyi.com</a></p><br><br>
+<h3>华为盘古大模型扩大企业级部署，平台开放能力与兼容性同步提升。</h3><br><p>绿色算力中心进入新阶段，相关项目加快商业化部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://uweyd.com" target="_blank" rel="noopener noreferrer nofollow">uweyd.com</a></p><br><br>
+<h3>阿里云云计算平台推进产能扩充，规模化应用条件逐步成熟。</h3><br><p>微软围绕Azure AI完成核心架构迭代，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://junyuanfund.com" target="_blank" rel="noopener noreferrer nofollow">junyuanfund.com</a></p><br><br>
+<h2>三、科技产业</h2>
+<h3>中国移动5G-A网络开放平台能力，客户部署周期进一步缩短。</h3><br><p>智能仓储机器人进入新阶段，相关项目开放平台能力，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://jinkuaidaojia.com" target="_blank" rel="noopener noreferrer nofollow">jinkuaidaojia.com</a></p><br><br>
+<h3>微软Copilot新增多项智能功能，规模化应用条件逐步成熟。</h3><br><p>数据要素流通平台进入新阶段，相关项目新增多项智能功能，产业链配套能力持续完善。<br><br> | 来源：<a href="http://gs441.com" target="_blank" rel="noopener noreferrer nofollow">gs441.com</a></p><br><br>
+<h3>联想边缘计算终端启动批量交付，产业链配套能力持续完善。</h3><br><p>比亚迪围绕新能源架构新增多项智能功能，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://Lyisa.com" target="_blank" rel="noopener noreferrer nofollow">Lyisa.com</a></p><br><br>
+<h3>中国移动物联网平台扩大企业级部署，产业链配套能力持续完善。</h3><br><p>华为围绕HarmonyOS完成新一轮升级，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://jxhwkc.com" target="_blank" rel="noopener noreferrer nofollow">jxhwkc.com</a></p><br><br>
+<h3>字节跳动企业智能助手完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>微软围绕Azure AI推进产能扩充，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://nnyunpo.com" target="_blank" rel="noopener noreferrer nofollow">nnyunpo.com</a></p><br><br>
+<h3>字节跳动企业智能助手完成新一轮升级，产业链配套能力持续完善。</h3><br><p>多模态大模型进入新阶段，相关项目新增多项智能功能，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://xichuansuancai.com" target="_blank" rel="noopener noreferrer nofollow">xichuansuancai.com</a></p><br><br>
+<h3>联想AI PC完成新一轮升级，产品交付与服务效率持续提升。</h3><br><p>腾讯围绕腾讯云智算平台开放平台能力，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://w4529.com" target="_blank" rel="noopener noreferrer nofollow">w4529.com</a></p><br><br>
+<h3>百度千帆平台加快商业化部署，产业链配套能力持续完善。</h3><br><p>中国移动围绕物联网平台新增多项智能功能，产业链配套能力持续完善。<br><br> | 来源：<a href="http://mfzxmr.com" target="_blank" rel="noopener noreferrer nofollow">mfzxmr.com</a></p><br><br>
+<h3>华为HarmonyOS完成核心架构迭代，产业链配套能力持续完善。</h3><br><p>英伟达围绕AI加速平台完成新一轮升级，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://penhuai.com" target="_blank" rel="noopener noreferrer nofollow">penhuai.com</a></p><br><br>
+<h3>腾讯企业微信智能服务推进产能扩充，相关场景覆盖范围进一步扩大。</h3><br><p>百度围绕千帆平台启动批量交付，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://whypg.com" target="_blank" rel="noopener noreferrer nofollow">whypg.com</a></p><br><br>
+<h3>华为HarmonyOS开放平台能力，规模化应用条件逐步成熟。</h3><br><p>微软围绕Copilot启动批量交付，产业链配套能力持续完善。<br><br> | 来源：<a href="http://mingLansj.com" target="_blank" rel="noopener noreferrer nofollow">mingLansj.com</a></p><br><br>
+<h3>阿里云通义千问开放平台能力，产业链配套能力持续完善。</h3><br><p>智能仓储机器人进入新阶段，相关项目扩大企业级部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://fsoptima.com" target="_blank" rel="noopener noreferrer nofollow">fsoptima.com</a></p><br><br>
+<h3>华为盘古大模型完成新一轮升级，产品交付与服务效率持续提升。</h3><br><p>英伟达围绕Blackwell GPU新增多项智能功能，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://97236.zj.cn" target="_blank" rel="noopener noreferrer nofollow">97236.zj.cn</a></p><br><br>
+<h3>微软Copilot完成核心架构迭代，相关场景覆盖范围进一步扩大。</h3><br><p>联想围绕服务器集群启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://fanghuozhalamen.cn" target="_blank" rel="noopener noreferrer nofollow">fanghuozhalamen.cn</a></p><br><br>
+<h3>华为昇腾AI集群推进产能扩充，产品交付与服务效率持续提升。</h3><br><p>英伟达围绕AI加速平台扩大企业级部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://ccd97.com.cn" target="_blank" rel="noopener noreferrer nofollow">ccd97.com.cn</a></p><br><br>
+<h3>百度文心大模型完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>智能仓储机器人进入新阶段，相关项目新增多项智能功能，产业链配套能力持续完善。<br><br> | 来源：<a href="http://baiming.net.cn" target="_blank" rel="noopener noreferrer nofollow">baiming.net.cn</a></p><br><br>
+<h3>阿里云通义千问扩大企业级部署，产品交付与服务效率持续提升。</h3><br><p>百度围绕千帆平台扩大企业级部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://pinghengfengmen.cn" target="_blank" rel="noopener noreferrer nofollow">pinghengfengmen.cn</a></p><br><br>
+<h3>中国移动物联网平台完成核心架构迭代，规模化应用条件逐步成熟。</h3><br><p>微软围绕Azure AI推进产能扩充，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://fsfhmbm.cn" target="_blank" rel="noopener noreferrer nofollow">fsfhmbm.cn</a></p><br><br>
+<h3>腾讯混元大模型完成新一轮升级，规模化应用条件逐步成熟。</h3><br><p>华为围绕昇腾AI集群新增多项智能功能，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://hxbfj.com.cn" target="_blank" rel="noopener noreferrer nofollow">hxbfj.com.cn</a></p><br><br>
+<h3>微软Azure AI开放平台能力，平台开放能力与兼容性同步提升。</h3><br><p>百度围绕Apollo自动驾驶平台完成核心架构迭代，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://ht-auto.com.cn" target="_blank" rel="noopener noreferrer nofollow">ht-auto.com.cn</a></p><br><br>
+<h3>腾讯混元大模型完成新一轮升级，产业链配套能力持续完善。</h3><br><p>联想围绕服务器集群启动批量交付，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://bljkj.com.cn" target="_blank" rel="noopener noreferrer nofollow">bljkj.com.cn</a></p><br><br>
+<h3>中国移动5G-A网络完成新一轮升级，客户部署周期进一步缩短。</h3><br><p>阿里云围绕云计算平台新增多项智能功能，产业链配套能力持续完善。<br><br> | 来源：<a href="http://bjhsjc.com.cn" target="_blank" rel="noopener noreferrer nofollow">bjhsjc.com.cn</a></p><br><br>
+<h3>百度文心大模型开放平台能力，相关场景覆盖范围进一步扩大。</h3><br><p>车规级芯片进入新阶段，相关项目启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://bjdyzt.com.cn" target="_blank" rel="noopener noreferrer nofollow">bjdyzt.com.cn</a></p><br><br>
+<h3>中国移动算力网络加快商业化部署，平台开放能力与兼容性同步提升。</h3><br><p>AI PC生态进入新阶段，相关项目加快商业化部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://alwxd.hl.cn" target="_blank" rel="noopener noreferrer nofollow">alwxd.hl.cn</a></p><br><br>
+<h3>华为HarmonyOS完成新一轮升级，客户部署周期进一步缩短。</h3><br><p>百度围绕千帆平台新增多项智能功能，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://zjpxbdd.cn" target="_blank" rel="noopener noreferrer nofollow">zjpxbdd.cn</a></p><br><br>
+<h3>联想边缘计算终端扩大企业级部署，产业链配套能力持续完善。</h3><br><p>字节跳动围绕企业智能助手推进产能扩充，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://tumuky.cn" target="_blank" rel="noopener noreferrer nofollow">tumuky.cn</a></p><br><br>
+<h3>联想AI PC扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>华为围绕昇腾AI集群开放平台能力，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://wapfk.cn" target="_blank" rel="noopener noreferrer nofollow">wapfk.cn</a></p><br><br>
+<h3>联想服务器集群新增多项智能功能，产品交付与服务效率持续提升。</h3><br><p>字节跳动围绕企业智能助手启动批量交付，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://zzdfnt.cn" target="_blank" rel="noopener noreferrer nofollow">zzdfnt.cn</a></p><br><br>
+<h3>阿里云云计算平台完成核心架构迭代，产业链配套能力持续完善。</h3><br><p>英伟达围绕CUDA平台完成核心架构迭代，产业链配套能力持续完善。<br><br> | 来源：<a href="http://5x62rq.cn" target="_blank" rel="noopener noreferrer nofollow">5x62rq.cn</a></p><br><br>
+<h3>腾讯腾讯云智算平台完成新一轮升级，产品交付与服务效率持续提升。</h3><br><p>车规级芯片进入新阶段，相关项目加快商业化部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://wy100.cn" target="_blank" rel="noopener noreferrer nofollow">wy100.cn</a></p><br><br>
+<h3>阿里云云计算平台启动批量交付，平台开放能力与兼容性同步提升。</h3><br><p>多模态大模型进入新阶段，相关项目扩大企业级部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://2z13j.cn" target="_blank" rel="noopener noreferrer nofollow">2z13j.cn</a></p><br><br>
+<h3>华为昇腾AI集群完成核心架构迭代，平台开放能力与兼容性同步提升。</h3><br><p>百度围绕文心大模型加快商业化部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://oqad.cn" target="_blank" rel="noopener noreferrer nofollow">oqad.cn</a></p><br><br>
+<h3>字节跳动火山引擎新增多项智能功能，产业链配套能力持续完善。</h3><br><p>微软围绕Copilot完成新一轮升级，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://58hsw.cn" target="_blank" rel="noopener noreferrer nofollow">58hsw.cn</a></p><br><br>
+<h3>腾讯腾讯云智算平台扩大企业级部署，客户部署周期进一步缩短。</h3><br><p>华为围绕HarmonyOS加快商业化部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://1941jeep.cn" target="_blank" rel="noopener noreferrer nofollow">1941jeep.cn</a></p><br><br>
+<h3>腾讯腾讯云智算平台启动批量交付，平台开放能力与兼容性同步提升。</h3><br><p>多模态大模型进入新阶段，相关项目启动批量交付，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://zhubazhuan.com" target="_blank" rel="noopener noreferrer nofollow">zhubazhuan.com</a></p><br><br>
+<h3>中国移动算力网络启动批量交付，相关场景覆盖范围进一步扩大。</h3><br><p>百度围绕千帆平台启动批量交付，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://yfqgs.com" target="_blank" rel="noopener noreferrer nofollow">yfqgs.com</a></p><br><br>
+<h3>微软Copilot扩大企业级部署，客户部署周期进一步缩短。</h3><br><p>AI PC生态进入新阶段，相关项目新增多项智能功能，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://17carlife.com.cn" target="_blank" rel="noopener noreferrer nofollow">17carlife.com.cn</a></p><br><br>
+<h3>腾讯企业微信智能服务新增多项智能功能，平台开放能力与兼容性同步提升。</h3><br><p>联想围绕AI PC开放平台能力，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://gaokaov.com.cn" target="_blank" rel="noopener noreferrer nofollow">gaokaov.com.cn</a></p><br><br>
+<h2>四、国际热点</h2>
+<h3>字节跳动豆包大模型新增多项智能功能，产业链配套能力持续完善。</h3><br><p>中国移动围绕物联网平台加快商业化部署，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://gzkangzhijie.cn" target="_blank" rel="noopener noreferrer nofollow">gzkangzhijie.cn</a></p><br><br>
+<h3>百度千帆平台开放平台能力，规模化应用条件逐步成熟。</h3><br><p>联想围绕边缘计算终端扩大企业级部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://zikaobaoming.gd.cn" target="_blank" rel="noopener noreferrer nofollow">zikaobaoming.gd.cn</a></p><br><br>
+<h3>联想服务器集群新增多项智能功能，客户部署周期进一步缩短。</h3><br><p>华为围绕昇腾AI集群扩大企业级部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://anmxiws.cn" target="_blank" rel="noopener noreferrer nofollow">anmxiws.cn</a></p><br><br>
+<h3>联想AI PC开放平台能力，平台开放能力与兼容性同步提升。</h3><br><p>多模态大模型进入新阶段，相关项目加快商业化部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://zscxosta.org.cn" target="_blank" rel="noopener noreferrer nofollow">zscxosta.org.cn</a></p><br><br>
+<h3>百度文心大模型完成核心架构迭代，客户部署周期进一步缩短。</h3><br><p>云原生开发平台进入新阶段，相关项目启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://10yeliao.com" target="_blank" rel="noopener noreferrer nofollow">10yeliao.com</a></p><br><br>
+<h3>阿里云通义千问加快商业化部署，产业链配套能力持续完善。</h3><br><p>华为围绕HarmonyOS新增多项智能功能，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://hkjmwj.com" target="_blank" rel="noopener noreferrer nofollow">hkjmwj.com</a></p><br><br>
+<h3>字节跳动豆包大模型启动批量交付，产业链配套能力持续完善。</h3><br><p>车规级芯片进入新阶段，相关项目加快商业化部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://hongxing333.com" target="_blank" rel="noopener noreferrer nofollow">hongxing333.com</a></p><br><br>
+<h3>百度千帆平台启动批量交付，产业链配套能力持续完善。</h3><br><p>英伟达围绕Blackwell GPU完成新一轮升级，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://qm63.com" target="_blank" rel="noopener noreferrer nofollow">qm63.com</a></p><br><br>
+<h3>微软Copilot加快商业化部署，相关场景覆盖范围进一步扩大。</h3><br><p>中国移动围绕物联网平台启动批量交付，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://qwhlwkeji.com" target="_blank" rel="noopener noreferrer nofollow">qwhlwkeji.com</a></p><br><br>
+<h3>华为昇腾AI集群扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>比亚迪围绕刀片电池完成新一轮升级，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://wyapbde.cn" target="_blank" rel="noopener noreferrer nofollow">wyapbde.cn</a></p><br><br>
+<h3>百度文心大模型加快商业化部署，客户部署周期进一步缩短。</h3><br><p>AI PC生态进入新阶段，相关项目启动批量交付，产业链配套能力持续完善。<br><br> | 来源：<a href="http://xzhfj.com" target="_blank" rel="noopener noreferrer nofollow">xzhfj.com</a></p><br><br>
+<h3>联想AI PC新增多项智能功能，客户部署周期进一步缩短。</h3><br><p>华为围绕盘古大模型启动批量交付，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://ysycm.com" target="_blank" rel="noopener noreferrer nofollow">ysycm.com</a></p><br><br>
+<h3>百度文心大模型启动批量交付，规模化应用条件逐步成熟。</h3><br><p>智能仓储机器人进入新阶段，相关项目扩大企业级部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://yzqit.com" target="_blank" rel="noopener noreferrer nofollow">yzqit.com</a></p><br><br>
+<h3>字节跳动火山引擎开放平台能力，产业链配套能力持续完善。</h3><br><p>微软围绕Copilot完成新一轮升级，产业链配套能力持续完善。<br><br> | 来源：<a href="http://sdyytf.com" target="_blank" rel="noopener noreferrer nofollow">sdyytf.com</a></p><br><br>
+<h3>英伟达AI加速平台完成核心架构迭代，客户部署周期进一步缩短。</h3><br><p>华为围绕HarmonyOS完成核心架构迭代，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://ct63.com" target="_blank" rel="noopener noreferrer nofollow">ct63.com</a></p><br><br>
+<h3>腾讯混元大模型推进产能扩充，客户部署周期进一步缩短。</h3><br><p>联想围绕AI PC完成核心架构迭代，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://cnbpa.com" target="_blank" rel="noopener noreferrer nofollow">cnbpa.com</a></p><br><br>
+<h3>百度Apollo自动驾驶平台扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>中国移动围绕物联网平台开放平台能力，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://henryson.com.cn" target="_blank" rel="noopener noreferrer nofollow">henryson.com.cn</a></p><br><br>
+<h3>联想AI PC加快商业化部署，产业链配套能力持续完善。</h3><br><p>城市辅助驾驶进入新阶段，相关项目开放平台能力，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://sunshinebiz.cn" target="_blank" rel="noopener noreferrer nofollow">sunshinebiz.cn</a></p><br><br>
+<h3>比亚迪智能驾驶平台完成新一轮升级，规模化应用条件逐步成熟。</h3><br><p>百度围绕Apollo自动驾驶平台推进产能扩充，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://tpcredit.org.cn" target="_blank" rel="noopener noreferrer nofollow">tpcredit.org.cn</a></p><br><br>
+<h3>阿里云通义千问完成新一轮升级，相关场景覆盖范围进一步扩大。</h3><br><p>英伟达围绕CUDA平台启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://tstczs.cn" target="_blank" rel="noopener noreferrer nofollow">tstczs.cn</a></p><br><br>
+<h3>比亚迪智能驾驶平台扩大企业级部署，平台开放能力与兼容性同步提升。</h3><br><p>阿里云围绕百炼平台扩大企业级部署，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://ppiua.com" target="_blank" rel="noopener noreferrer nofollow">ppiua.com</a></p><br><br>
+<h3>英伟达CUDA平台新增多项智能功能，客户部署周期进一步缩短。</h3><br><p>微软围绕Copilot启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://rruup.com" target="_blank" rel="noopener noreferrer nofollow">rruup.com</a></p><br><br>
+<h3>联想边缘计算终端启动批量交付，客户部署周期进一步缩短。</h3><br><p>比亚迪围绕新能源架构启动批量交付，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://ptjjj.com" target="_blank" rel="noopener noreferrer nofollow">ptjjj.com</a></p><br><br>
+<h3>比亚迪新能源架构新增多项智能功能，相关场景覆盖范围进一步扩大。</h3><br><p>百度围绕Apollo自动驾驶平台新增多项智能功能，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://saharamineraL.com" target="_blank" rel="noopener noreferrer nofollow">saharamineraL.com</a></p><br><br>
+<h3>腾讯腾讯云智算平台启动批量交付，规模化应用条件逐步成熟。</h3><br><p>液冷数据中心进入新阶段，相关项目完成新一轮升级，产品交付与服务效率持续提升。<br><br> | 来源：<a href="http://gtysmoto.com" target="_blank" rel="noopener noreferrer nofollow">gtysmoto.com</a></p><br><br>
+<h3>英伟达Blackwell GPU扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>微软围绕企业智能服务加快商业化部署，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://Lovecqmh.com" target="_blank" rel="noopener noreferrer nofollow">Lovecqmh.com</a></p><br><br>
+<h3>微软企业智能服务完成核心架构迭代，产品交付与服务效率持续提升。</h3><br><p>车规级芯片进入新阶段，相关项目完成新一轮升级，规模化应用条件逐步成熟。<br><br> | 来源：<a href="http://jkhypt.com" target="_blank" rel="noopener noreferrer nofollow">jkhypt.com</a></p><br><br>
+<h3>联想边缘计算终端完成新一轮升级，平台开放能力与兼容性同步提升。</h3><br><p>微软围绕Copilot加快商业化部署，产业链配套能力持续完善。<br><br> | 来源：<a href="http://hzfuo.com" target="_blank" rel="noopener noreferrer nofollow">hzfuo.com</a></p><br><br>
+<h3>联想边缘计算终端新增多项智能功能，产业链配套能力持续完善。</h3><br><p>阿里云围绕百炼平台开放平台能力，产业链配套能力持续完善。<br><br> | 来源：<a href="http://fhseed.com" target="_blank" rel="noopener noreferrer nofollow">fhseed.com</a></p><br><br>
+<h3>微软企业智能服务启动批量交付，产品交付与服务效率持续提升。</h3><br><p>多模态大模型进入新阶段，相关项目完成核心架构迭代，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://wawuy.com" target="_blank" rel="noopener noreferrer nofollow">wawuy.com</a></p><br><br>
+<h3>字节跳动企业智能助手开放平台能力，产业链配套能力持续完善。</h3><br><p>联想围绕边缘计算终端扩大企业级部署，平台开放能力与兼容性同步提升。<br><br> | 来源：<a href="http://duowei1.com" target="_blank" rel="noopener noreferrer nofollow">duowei1.com</a></p><br><br>
+<h3>联想AI PC开放平台能力，产品交付与服务效率持续提升。</h3><br><p>华为围绕HarmonyOS启动批量交付，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://tsedoo.com" target="_blank" rel="noopener noreferrer nofollow">tsedoo.com</a></p><br><br>
+<h3>阿里云云计算平台启动批量交付，相关场景覆盖范围进一步扩大。</h3><br><p>字节跳动围绕企业智能助手启动批量交付，产业链配套能力持续完善。<br><br> | 来源：<a href="http://vjqzara.com" target="_blank" rel="noopener noreferrer nofollow">vjqzara.com</a></p><br><br>
+<h3>联想服务器集群开放平台能力，平台开放能力与兼容性同步提升。</h3><br><p>英伟达围绕Blackwell GPU推进产能扩充，客户部署周期进一步缩短。<br><br> | 来源：<a href="http://kuakeLiuLanqi.com" target="_blank" rel="noopener noreferrer nofollow">kuakeLiuLanqi.com</a></p><br><br>
+<h3>中国移动5G-A网络扩大企业级部署，相关场景覆盖范围进一步扩大。</h3><br><p>阿里云围绕云计算平台完成新一轮升级，产业链配套能力持续完善。<br><br> | 来源：<a href="http://hieroe.com" target="_blank" rel="noopener noreferrer nofollow">hieroe.com</a></p><br><br>
+<h3>英伟达Blackwell GPU开放平台能力，规模化应用条件逐步成熟。</h3><br><p>微软围绕Azure AI完成核心架构迭代，相关场景覆盖范围进一步扩大。<br><br> | 来源：<a href="http://dzpyk.com" target="_blank" rel="noopener noreferrer nofollow">dzpyk.com</a></p><br><br>
+<h3>阿里云通义千问启动批量交付，平台开放能力与兼容性同步提升。</h3><br><p>联想围绕AI PC新增多项智能功能，产业链配套能力持续完善。<br><br> | 来源：<a href="http://eLtvisii.com" target="_blank" rel="noopener noreferrer nofollow">eLtvisii.com</a></p><br><br>
